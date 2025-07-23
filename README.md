@@ -1,6 +1,6 @@
-# Desa Wisata Sukarame
+# Website Pariwisata Sektoral Likupang
 
-Sukarame Tourist Village is a destination rich in natural beauty and local culture. To support effective management and promotion, an integrated information system has been developed. This system is designed to meet various needs for managing the tourist village, with key features such as user management, ensuring that only authorized personnel can access and manage sensitive data, destination management, allowing village managers to manage information about the various tourist destinations in Sukarame. Each destination can have a complete description, operating hours, ticket prices, available facilities, and directions. Managers can also add images to provide an attractive visual representation for prospective visitors. This information can be updated periodically to ensure accuracy and relevance, gallery management, allowing managers to upload and organize a collection of photos from various activities and the beauty of the tourist village, article management, enabling admins to create and publish articles on various topics related to the tourist village, event management, allowing the management of events, including descriptions, time, and location. With this system, Sukarame Tourist Village can improve management efficiency, visitor experience, and effective promotion of the village. This application was created using Laravel v11 and requires a minimum of PHP v8.2. Therefore, if you encounter any errors or bugs during the installation or usage process, it is possible that they are caused by an unsupported PHP version.
+Website Pariwisata Likupang: Pulisan dan Marinsow hadir sebagai platform digital untuk memperkenalkan potensi pariwisata sektoral yang dimiliki oleh dua desa wisata unggulan di Kecamatan Likupang Timur, yakni Desa Pulisan dan Desa Marinsow. Website ini dikembangkan sebagai bagian dari program kerja Kuliah Kerja Nyata-Pembelajaran Pemberdayaan Masyarakat (KKN-PPM) Universitas Gadjah Mada yang bertujuan untuk mendukung masyarakat dalam memajukan sektor pariwisata lokal secara berkelanjutan. Melalui laman ini, kami menyuguhkan informasi terkini seputar destinasi wisata alam, budaya lokal, kuliner khas, kegiatan masyarakat, serta fasilitas pendukung yang tersedia di kawasan Pulisan dan Marinsow. Semua disusun agar wisatawan, baik domestik maupun mancanegara, dapat dengan mudah merencanakan perjalanan yang berkesan di kawasan pesisir utara Sulawesi Utara ini. Dengan desain yang ramah pengguna dan konten yang informatif, website ini menjadi jembatan antara kekayaan alam serta budaya lokal dengan para wisatawan yang ingin menjelajah lebih jauh keindahan Likupang. Kami percaya bahwa pemanfaatan teknologi digital dapat memperkuat promosi wisata dan meningkatkan dampak positif bagi masyarakat setempat.
 
 ## Tech Stack
 
@@ -17,12 +17,8 @@ Sukarame Tourist Village is a destination rich in natural beauty and local cultu
 Clone the project
 
 ```bash
-  git clone https://github.com/khalilannbiya/desa-wisata.git
+  git clone https://github.com/hudaaaamn/niskalalikupang/.git
 ```
-
-Or Download ZIP
-
-[Link](https://github.com/khalilannbiya/desa-wisata/archive/refs/heads/main.zip)
 
 Go to the project directory
 
@@ -157,21 +153,11 @@ Another way to run the application is to use the command php artisan serve. Take
 -   Article Management
 -   Light/dark mode toggle at CMS
 
-## Screenshots
-![Beranda-Desa-Wisata-Sukarame](https://github.com/user-attachments/assets/53911628-a8ef-4bc6-9728-e72053225eab)
-![Tempat-Wisata-Desa-Wisata-Sukarame](https://github.com/user-attachments/assets/2298fa3f-49a8-4fa0-9aec-d52e835326c6)
-![Desa-Wisata-Sukarame](https://github.com/user-attachments/assets/a00c7c3d-8e05-49ce-ac48-768aad162c06)
-![Data-Wisata-Desa-Wisata-Sukarame](https://github.com/user-attachments/assets/46e49171-f408-4171-b76c-7bdfb0ff2374)
-![Desa-Wisata-Sukarame (1)](https://github.com/user-attachments/assets/eb4d8121-3075-47d8-bfe6-cbad19e282c0)
-
 
 ## Authors
 
-- [@khalilannbiya](https://www.github.com/khalilannbiya)
-- [@slamets24](https://github.com/slamets24)
-- [@ramdhannassyirah](https://github.com/ramdhannassyirah)
-- [@annisa-ozka](https://github.com/annisa-ozka)
+- [@hudaaaamn](https://www.github.com/hudaaaamn)
 
 ## Feedback
 
-If you have any feedback, please reach out to us at syeichkhalil@gmail.com
+If you have any feedback, please reach out to us at hudamnur21@gmail.com
